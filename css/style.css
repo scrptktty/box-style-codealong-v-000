@@ -34,6 +34,7 @@ figcaption {
 
 .border-right {
   border-right: 1px dotted #333;
+  padding-right: 30px;
 }
 
 /*////////// BACKGROUNDS //////////*/
